@@ -1,2 +1,2 @@
-# SHIFT_lol_pro_games_predictions
+# League of Legends professional games predictions
 Summer 2019 SHIFT project
